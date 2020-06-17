@@ -483,7 +483,7 @@ http://stream-7b694ce7e.nmbs.top/m3u/Germany/05bcd8c334.m3u8
 http://stream-7b694ce7e.nmbs.top/m3u/Germany/a4bd4f8154.m3u8
 #EXTINF:-1 tvg-id="Pro7.at" tvg-name="Prosieben" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png" group-title="",Prosieben
 http://188.35.9.5:10020/stolen/496w/hot.dll
-#EXTINF:-1 tvg-id="Pro7.at" tvg-name="Prosieben" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png" group-title="",Prosieben
+#EXTINF:-1 tvg-id="Pro7.at" tvg-name="Prosieben 1" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png" group-title="",Prosieben
 https://wer1.wertvlive.com/d1/video.m3u8
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-language="German" tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/prosiebenmaxx/logo/prosiebenmaxx_ox__W1000xh0.jpg" group-title="",Prosieben Maxx
 http://188.35.9.5:10020/stolen/500w/hot.dll
