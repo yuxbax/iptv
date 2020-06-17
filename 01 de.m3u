@@ -360,7 +360,9 @@ http://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/kn1DHZq.gif" group-title="",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
 #EXTINF:-1 tvg-id="1.de" tvg-name="" tvg-language="" tvg-logo="" group-title="",SAT 1
-http://stream-7b694ce7e.nmbs.top/m3u/Germany/b474683965.m3u8
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/139539.m3u8
+#EXTINF:-1 tvg-id="1.de" tvg-name="" tvg-language="" tvg-logo="" group-title="",SAT GOLD
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/139540.m3u8
 #EXTINF:-1 tvg-id="SkyAction.de" tvg-name="" tvg-language="" tvg-logo="http://195.154.221.171/picons/skycinemaactionhdde.png" group-title="",SKY ACTION
 http://stream-7b694ce7e.nmbs.top/m3u/Germany/c8a1817526.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="http://195.154.221.171/picons/skyatlantichdde.png" group-title="",SKY ATLATNIC
