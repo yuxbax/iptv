@@ -13,6 +13,8 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/profile1/1.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="" group-title="",ARD 1
 http://stream-7b694ce7e.nmbs.top/m3u/Germany/2cbd8fc7fb.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="" group-title="",ARTE
+http://85.217.223.139:80/live/tFTQzKK956/7JgqZW742/16496.m3u8
 #EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" group-title="",Augsburg TV
 http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/AHHE8Rt.png" group-title="XXX",Babestation 24
